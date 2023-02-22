@@ -6,4 +6,4 @@ E : Essential school homework / W : What I want to do
 
 # Repos
 
-## - 2023 ( 1학년 )
+## - 2023 ( 중1학년 )
